@@ -1,7 +1,6 @@
 # analise-tecnica
 Análise técnica das ações da empresa brasileira Petrobras  (PETR4)
 
-Análise Técnica da Ação da Petrobras
 Este documento contém uma análise técnica da ação da Petrobras, realizada com o objetivo de avaliar seu desempenho no mercado financeiro com base em indicadores técnicos e gráficos históricos.
 
 Resumo
@@ -26,4 +25,4 @@ Conclusão e Recomendações: Resumo das descobertas, tendências identificadas 
 Como Contribuir
 Sinta-se à vontade para contribuir com sugestões, correções ou atualizações nesta análise técnica. Abra um pull request ou envie seus comentários para enriquecer este documento.
 
-Lembre-se de adaptar o conteúdo conforme necessário, incluindo informações específicas sobre os gráficos, indicadores e conclusões da análise técnica realizada na ação da Petrobras. Este README serve como uma introdução informativa e direcionadora para o conteúdo que será detalhado no arquivo da análise técnica.
+
